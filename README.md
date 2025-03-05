@@ -21,9 +21,9 @@ Hi there! 👋 I'm **Smriti Aggarwal**, a passionate **tech enthusiast** with a 
 ## 💻 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smritigit1202&layout=compact&langs_count=10&theme=radical)  
 
+## 🌟🌟
 ![Total Stars](https://img.shields.io/github/stars/smritigit1202?style=social)
-![Smriti's GitHub Stats](https://your-vercel-app-url/api?username=smritigit1202&include_all_commits=true&show_icons=true&theme=radical)
----
+
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-aggarwal-94210825a/)  
