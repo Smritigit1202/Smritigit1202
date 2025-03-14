@@ -18,9 +18,6 @@ Hi there! 👋 I'm **Smriti Aggarwal**, a passionate **tech enthusiast** with a 
 ![Smriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smritigit1202&include_all_commits=true&show_icons=true&theme=radical)
 
 
-## 💻 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smritigit1202&layout=compact&langs_count=10&theme=radical)  
-
 ## 🌟🌟
 ![Total Stars](https://img.shields.io/github/stars/smritigit1202?style=social)
 
