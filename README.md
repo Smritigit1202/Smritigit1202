@@ -39,4 +39,6 @@ Hi there, I am Smriti Aggarwal, a passionate **tech enthusiast** with a strong i
 ✨ Always open to **collaborations, discussions, and learning opportunities**!
 
 ---
-## My email ID - smritiaggarwal1202@gmail.com
+## My email ID - 
+
+smritiaggarwal1202@gmail.com
