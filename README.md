@@ -1,10 +1,10 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Smriti+Aggarwal;Technology+&+Coding" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Smriti+Aggarwal;Technology+and+Coding" alt="Typing SVG"/>
 </div>
 
-passionate **tech enthusiast** with a strong interest in **Web Development, ML, Data Analytics, Core Electronics, and DSA**.  
+A passionate **tech enthusiast** with a strong interest in **Web Development, ML, Data Analytics, Core Electronics, and DSA**.  
 
 🚀 I love working on innovative solutions that **bridge technology and real-world challenges**.
 
@@ -31,5 +31,8 @@ passionate **tech enthusiast** with a strong interest in **Web Development, ML, 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-aggarwal-94210825a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smritigit1202)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/smritiaggrwl)
+
 
 ✨ Always open to **collaborations, discussions, and learning opportunities**!
+My email ID - smritiaggarwal1202@gmail.com
