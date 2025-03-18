@@ -3,15 +3,14 @@
 Hi there, I am Smriti Aggarwal, a passionate **tech enthusiast** with a strong interest in **Web Development, ML, Data Analytics, Core Electronics, and DSA**.  
 
 🚀 I love working on innovative solutions that **bridge technology and real-world challenges**.
+🔹 Currently, I'm pursuing **B.Tech** from **Jaypee Institute of Information Technology, Noida-62**.   
+
 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Technology%2C;Coding" alt="Typing SVG"/>
 </div>
 
-
-
-🔹 Currently, I'm pursuing **B.Tech** from **Jaypee Institute of Information Technology, Noida-62**.   
 
 ## 🔧 Tech Stack:
 - **Languages**: C++, Python, Arduino Programming, MATLAB  
