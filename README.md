@@ -3,6 +3,7 @@
 Hi there, I am Smriti Aggarwal, a passionate **tech enthusiast** with a strong interest in **Web Development, ML, Data Analytics, Core Electronics, and DSA**.  
 
 🚀 I love working on innovative solutions that **bridge technology and real-world challenges**.
+
 🔹 Currently, I'm pursuing **B.Tech** from **Jaypee Institute of Information Technology, Noida-62**.   
 
 
