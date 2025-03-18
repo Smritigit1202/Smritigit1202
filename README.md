@@ -1,7 +1,13 @@
-# 💫 About Me:
-Hi there! 👋 I'm **Smriti Aggarwal**, a passionate **tech enthusiast** with a strong interest in **Web Development, ML, Data Analytics, Core Electronics, and DSA**.  
+# 💫 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Smriti+Aggarwal;Technology+&+Coding" alt="Typing SVG"/>
+</div>
+
+passionate **tech enthusiast** with a strong interest in **Web Development, ML, Data Analytics, Core Electronics, and DSA**.  
 
 🚀 I love working on innovative solutions that **bridge technology and real-world challenges**.
+
 
 🔹 Currently, I'm pursuing **B.Tech** from **Jaypee Institute of Information Technology, Noida-62**.   
 
@@ -25,6 +31,5 @@ Hi there! 👋 I'm **Smriti Aggarwal**, a passionate **tech enthusiast** with a 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-aggarwal-94210825a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smritigit1202)  
-
 
 ✨ Always open to **collaborations, discussions, and learning opportunities**!
