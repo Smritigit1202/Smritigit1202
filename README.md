@@ -25,7 +25,7 @@ Hi there! 👋 I'm **Smriti Aggarwal**, a passionate **tech enthusiast** with a 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-aggarwal-94210825a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smritigit1202)  
-[Instagram](https://www.instagram.com/smritiaggrwl)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/smritiaggrwl/)
 
 
 
